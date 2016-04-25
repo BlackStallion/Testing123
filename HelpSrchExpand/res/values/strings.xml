@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoinTribe Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="cointribe_dial_no">tel:18008439240</string>
+    <string name="cointribe_emial_id">contactus@cointribe.com</string>
+</resources>
