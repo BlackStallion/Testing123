@@ -62,7 +62,6 @@ public class Helpmain extends ActionBarActivity {
         stringList.add("I'm applying for Loan");
         stringList.add("I'm waiting for my disbursement");
         stringList.add("I'm a CoinTribe customer");
-        Log.d("TSETINGD DGDVDVFVFFV","TSET JENKINS");
 
 	        inputSearch = (EditText) findViewById(R.id.inputSearch);
 
